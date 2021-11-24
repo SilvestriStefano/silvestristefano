@@ -1,7 +1,7 @@
 Hi there 👋
 ===========
 
-I am a **Mathematician** and aspiring **Full Stack Developer**.
+I am a **Mathematician** :mortar_board: and aspiring **Full Stack Developer**.
 
 I learned how to code in several programming/markup languages mostly by myself. Clearly my approach to coding is shaped by my mathematics background and love for solving problems.
 
