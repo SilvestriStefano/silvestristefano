@@ -5,7 +5,7 @@ I am a **Mathematician** :mortar_board: and aspiring **Full Stack Developer**.
 
 I learned how to code in several programming/markup languages mostly by myself. Clearly my approach to coding is shaped by my mathematics background and love for solving problems.
 
-At the moment, I am enrolled in a bootcamp to become a Full Stack Developer @[EPICODE School](https://epicode.it).
+In the Fall 2021 I enrolled in a 14-weeks bootcamp to become a Full Stack Developer @[EPICODE School](https://epicode.it).
 
 I have helped design and create the [SARKAS](https://github.com/murillo-group/sarkas) [website](murillo-group.github.io/sarkas) for the [Murillo-Group at MSU](https://murillogroupmsu.com/) way before enrolling in the bootcamp.
 
