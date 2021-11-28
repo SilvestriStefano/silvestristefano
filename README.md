@@ -21,7 +21,6 @@ I have helped design and create the [SARKAS](https://github.com/murillo-group/sa
   * Markdown (MD)
   * ReStructured Text (RST)
 * Programming languages I experiment with
-  * Java
   * JavaScript
   * Julia
   * PHP
