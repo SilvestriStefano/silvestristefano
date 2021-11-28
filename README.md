@@ -3,7 +3,7 @@ Hi there 👋
 
 I am a **Mathematician** :mortar_board: and aspiring **Full Stack Developer**.
 
-I learned how to code in several programming/markup languages mostly by myself. Clearly my approach to coding is shaped by my mathematics background and love for solving problems.
+I do enjoy applying my analytical reasoning skills to challenges in other fields. In fact, I learned how to code in several programming/markup languages mostly by myself.
 
 In the Fall 2021 I enrolled in a 14-weeks bootcamp to become a Full Stack Developer @[EPICODE School](https://epicode.it).
 
@@ -12,7 +12,7 @@ I have helped design and create the [SARKAS](https://github.com/murillo-group/sa
 ---
 ---
 
-Tech Info
+:computer: Tech Info
 ---------
 
 * Markup Languages
@@ -20,7 +20,7 @@ Tech Info
   * LaTeX
   * Markdown (MD)
   * ReStructured Text (RST)
-* Programming languages
+* Programming languages I experiment with
   * Java
   * JavaScript
   * Julia
@@ -29,7 +29,7 @@ Tech Info
   * Python 3
 * Libraries I have been learning
   * jQuery
-  * p5.js <!-- see my p5.js code examples-->
+  * p5.js  --> [see my sketches](https://editor.p5js.org/silvas/sketches)<!-- see my p5.js code examples-->
   * Processing
   * React.js
 * Databases
@@ -44,12 +44,12 @@ Tech Info
 ---
 ---
 
-More about me
+:relaxed: More about me
 -------------
 
 💬 Pronouns: he/him
 
-✨ In am bilingual: Italian :it: English :us:
+✨ In am bilingual: Italian :it: and English :us:
 
 👀 Fun fact: I enjoy juggling :circus_tent: and jigsaw puzzles
 
