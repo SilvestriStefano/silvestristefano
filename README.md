@@ -50,7 +50,7 @@ I have helped design and create the [SARKAS](https://github.com/murillo-group/sa
 
 ✨ In am bilingual: Italian :it: and English :us:
 
-👀 Fun fact: I enjoy juggling :circus_tent: and jigsaw puzzles
+👀 Fun fact: I enjoy juggling :circus_tent: and puzzles
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stefano-silvestri-phd/)
 <!--
