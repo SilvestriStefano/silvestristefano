@@ -1,11 +1,13 @@
-Hi there 👋
-===========
+:bangbang: --- this page is still under construction --- :bangbang:
+
+Stefano Silvestri
+=================
 
 I am a **Mathematician** :mortar_board: and aspiring **Full Stack Developer**.
 
 I do enjoy applying my analytical reasoning skills to challenges in other fields. In fact, I learned how to code in several programming/markup languages mostly by myself.
 
-In the Fall 2021 I enrolled in a 14-weeks bootcamp to become a Full Stack Developer @[EPICODE School](https://epicode.it).
+In the Fall 2021 I enrolled in a 14-weeks bootcamp @[EPICODE School](https://epicode.it) to become a Full Stack Developer.
 
 I have helped design and create the [SARKAS](https://github.com/murillo-group/sarkas) [website](murillo-group.github.io/sarkas) for the [Murillo-Group at MSU](https://murillogroupmsu.com/) way before enrolling in the bootcamp.
 
@@ -14,6 +16,8 @@ I have helped design and create the [SARKAS](https://github.com/murillo-group/sa
 
 :computer: Tech Info
 ---------
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvestristefano&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
 * Markup Languages
   * HTML
@@ -50,18 +54,7 @@ I have helped design and create the [SARKAS](https://github.com/murillo-group/sa
 
 ✨ In am bilingual: Italian :it: and English :us:
 
-👀 Fun fact: I enjoy juggling :circus_tent: and puzzles
+👀 Fun fact: I enjoy juggling 🤹 and puzzles
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stefano-silvestri-phd/)
-<!--
-**SilvestriStefano/silvestristefano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 How to reach me:  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/stefano-silvestri-phd/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-⚡😄
--->
