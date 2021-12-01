@@ -1,4 +1,4 @@
-:bangbang: --- this page is still under construction --- :bangbang:
+:bangbang: --- under construction --- :bangbang:
 
 :wave: Hi, I am Stefano
 =======================
