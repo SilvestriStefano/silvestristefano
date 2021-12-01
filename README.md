@@ -1,7 +1,7 @@
 :bangbang: --- this page is still under construction --- :bangbang:
 
-Stefano Silvestri
-=================
+:wave: Hi, I am Stefano
+=======================
 
 I am a **Mathematician** :mortar_board: and aspiring **Full Stack Developer**.
 
