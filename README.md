@@ -42,6 +42,8 @@ I have helped design and create the [SARKAS](https://github.com/murillo-group/sa
   * Laravel 8
   * Tailwind CSS
   * MUI
+* CMS I have used
+  * Wordpress
 * Softwares
   * Mathematica 10, 11, 12
 
