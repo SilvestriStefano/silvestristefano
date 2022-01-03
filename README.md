@@ -7,17 +7,16 @@ I am a **Mathematician** :mortar_board: and aspiring **Full Stack Developer**.
 
 I do enjoy applying my analytical reasoning skills to challenges in other fields. In fact, I learned how to code in several programming/markup languages mostly by myself.
 
-In the Fall 2021 I enrolled in a 14-weeks bootcamp @[EPICODE School](https://epicode.it) to become a Full Stack Developer.
+In the Fall 2021 I enrolled in a 14(+3)-weeks bootcamp @[EPICODE School](https://epicode.it) to become a Full Stack Developer.
 
-I have helped design and create the [SARKAS](https://github.com/murillo-group/sarkas) [website](murillo-group.github.io/sarkas) for the [Murillo-Group at MSU](https://murillogroupmsu.com/) way before enrolling in the bootcamp.
+I have helped design and create the [SARKAS](https://github.com/murillo-group/sarkas) [website](https://murillo-group.github.io/sarkas/) for the [Murillo-Group at MSU](https://murillogroupmsu.com/) way before enrolling in the bootcamp. It was built with [Sphinx](https://www.sphinx-doc.org), a Python static website generator that is mainly used for documentation-type websites.
 
 ---
 ---
 
 :computer: Tech Info
 ---------
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvestristefano&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=silvestristefano&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
 * Markup Languages
   * HTML
@@ -53,7 +52,7 @@ I have helped design and create the [SARKAS](https://github.com/murillo-group/sa
 :relaxed: More about me
 -------------
 
-💬 Pronouns: he/him
+💬 Pronouns: he/him/his
 
 ✨ In am bilingual: Italian :it: and English :us:
 
