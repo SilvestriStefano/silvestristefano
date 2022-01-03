@@ -50,19 +50,19 @@ I have helped design and create the [SARKAS](https://github.com/murillo-group/sa
   * Libraries I have been learning
     <p align="center">
 
-    <img height="32" src="img/icons/p5dotjs.svg" alt="p5.js"/>
+    <img height="40" src="img/icons/p5dotjs.svg" alt="p5.js"/>
     <img height="32" width="32" src="img/icons/jquery.svg" alt="jQuery"/>
     <img height="32" width="32" src="img/icons/react.svg" alt="React"/>
 
     </p>
   * Databases
-    <p>
+    <p  align="center">
     
-    <img height="32" src="img/icons/mysql.svg" alt="MySQL"/>
+    <img height="42" src="img/icons/mysql.svg" alt="MySQL"/>
 
     </p>
   * Frameworks I have played with
-    <p>
+    <p  align="center">
     
     <img height="32" src="img/icons/bootstrap.svg" alt="Bootstrap"/>
     <img height="32" src="img/icons/laravel.svg" alt="Laravel"/>
@@ -71,13 +71,13 @@ I have helped design and create the [SARKAS](https://github.com/murillo-group/sa
 
     </p>
   * CMS I have used
-    <p>
+    <p  align="center">
     
     <img height="32" src="img/icons/wordpress.svg" alt="Wordpress"/>
 
     </p>
   * Softwares
-    <p>
+    <p  align="center">
     
     <img height="32" src="img/icons/wolframmathematica.svg" alt="Wolfram Mathematica"/>
 
