@@ -63,8 +63,8 @@ I have helped design and create the [SARKAS](https://github.com/murillo-group/sa
   * Frameworks I have played with
     <p  align="center">
     
-    <img height="32" src="img/icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap 4 &amp; 5"/>
     <img height="32" src="img/icons/laravel.svg" alt="Laravel" title="Laravel 8"/>
+    <img height="32" src="img/icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap 4 &amp; 5"/>
     <img height="32" src="img/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS"/>
     <img height="32" src="img/icons/mui.svg" alt="Mui" title="MUI"/>
 
