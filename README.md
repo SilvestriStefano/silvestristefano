@@ -3,7 +3,7 @@
 :wave: Hi, I am Stefano
 =======================
 
-I am a **Mathematician** :mortar_board: and aspiring **Full Stack Developer**.
+I am a **Mathematician** :mortar_board: and **Jr. Full Stack Developer**.
 
 I do enjoy applying my analytical reasoning skills to challenges in other fields. In fact, I learned how to code in several programming/markup languages mostly by myself.
 
@@ -15,14 +15,13 @@ I have helped design and create the [SARKAS](https://github.com/murillo-group/sa
 ---
 
 :computer: Tech Info
----------
+--------------------
 <details>
-  <summary> GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=silvestristefano&show_icons=true&theme=city_lights&include_all_commits=true"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvestristefano&layout=compact&theme=city_lights"/>
 
-  ---
 </details>
 
 <details>
@@ -31,59 +30,57 @@ I have helped design and create the [SARKAS](https://github.com/murillo-group/sa
   * Markup Languages
     <p align="center">
 
-    <img height="32" width="32" src="img/icons/latex.svg" alt="LaTeX"/>
-    <img height="32" width="32" src="img/icons/html5.svg" alt="HTML5"/>
-    <img height="32" width="32" src="img/icons/markdown.svg" alt="Markdown"/>
-    <img height="24"  src="img/icons/ReStructuredText_Logo.svg" alt="ReStructuredText"/>
+    <img height="32" src="img/icons/latex.svg" alt="LaTeX" title="LaTeX"/>
+    <img height="32" src="img/icons/html5.svg" alt="HTML 5" title="HTML 5"/>
+    <img height="32" src="img/icons/markdown.svg" alt="Markdown" title="Markdown"/>
+    <img height="20" src="img/icons/ReStructuredText_Logo.svg" alt="ReStructuredText" title="RST"/>
 
     </p>
   * Programming languages I experiment with
     <p align="center">
 
-    <img height="32" width="32" src="img/icons/javascript.svg" alt="Javascript"/>
-    <img height="32" width="32" src="img/icons/python.svg" alt="Python"/>
-    <img height="32" src="img/icons/Julia_Programming_Language_Logo.svg" alt="Julia"/>
-    <img height="32" width="32" src="img/icons/Processing_2021_logo.svg" alt="Processing"/>
-    <img height="32" src="img/icons/php.svg" alt="PHP"/>
+    <img height="32" width="32" src="img/icons/javascript.svg" alt="Javascript" title="Javascript"/>
+    <img height="32" width="32" src="img/icons/python.svg" alt="Python" title="Python 3+"/>
+    <img height="32" src="img/icons/Julia_Programming_Language_Logo.svg" alt="Julia" title="Julia"/>
+    <img height="32" width="32" src="img/icons/Processing_2021_logo.svg" alt="Processing" title="Processing"/>
+    <img height="32" src="img/icons/php.svg" alt="PHP" title="PHP 8+"/>
 
     </p>
   * Libraries I have been learning
     <p align="center">
 
-    <img height="40" src="img/icons/p5dotjs.svg" alt="p5.js"/>
-    <img height="32" width="32" src="img/icons/jquery.svg" alt="jQuery"/>
-    <img height="32" width="32" src="img/icons/react.svg" alt="React"/>
+    <img height="40" src="img/icons/p5dotjs.svg" alt="p5.js" title="p5.js"/>
+    <img height="32" width="32" src="img/icons/jquery.svg" alt="jQuery" title="jQuery"/>
+    <img height="32" width="32" src="img/icons/react.svg" alt="React" title="React"/>
 
     </p>
   * Databases
     <p  align="center">
     
-    <img height="42" src="img/icons/mysql.svg" alt="MySQL"/>
+    <img height="42" src="img/icons/mysql.svg" alt="MySQL" title="MySQL"/>
 
     </p>
   * Frameworks I have played with
     <p  align="center">
     
-    <img height="32" src="img/icons/bootstrap.svg" alt="Bootstrap"/>
-    <img height="32" src="img/icons/laravel.svg" alt="Laravel"/>
-    <img height="32" src="img/icons/tailwindcss.svg" alt="Tailwind CSS"/>
-    <img height="32" src="img/icons/mui.svg" alt="Mui"/>
+    <img height="32" src="img/icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap 4 &amp; 5"/>
+    <img height="32" src="img/icons/laravel.svg" alt="Laravel" title="Laravel 8"/>
+    <img height="32" src="img/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS"/>
+    <img height="32" src="img/icons/mui.svg" alt="Mui" title="MUI"/>
 
     </p>
   * CMS I have used
     <p  align="center">
     
-    <img height="32" src="img/icons/wordpress.svg" alt="Wordpress"/>
+    <img height="32" src="img/icons/wordpress.svg" alt="Wordpress" title="Wordpress"/>
 
     </p>
   * Softwares
     <p  align="center">
     
-    <img height="32" src="img/icons/wolframmathematica.svg" alt="Wolfram Mathematica"/>
+    <img height="32" src="img/icons/wolframmathematica.svg" alt="Wolfram Mathematica" title="Mathematica 10 11 &amp; 12"/>
 
     </p>
-  
-  ---
 </details>
 
 ---
