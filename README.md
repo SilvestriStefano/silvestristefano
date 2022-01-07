@@ -36,7 +36,7 @@ I have helped design and create the [SARKAS](https://github.com/murillo-group/sa
     <img height="20" src="img/icons/ReStructuredText_Logo.svg" alt="ReStructuredText" title="RST"/>
 
     </p>
-  * Programming languages I experiment with
+  * Programming languages with which I have experimented
     <p align="center">
 
     <img height="32" width="32" src="img/icons/javascript.svg" alt="Javascript" title="Javascript"/>
@@ -60,7 +60,7 @@ I have helped design and create the [SARKAS](https://github.com/murillo-group/sa
     <img height="42" src="img/icons/mysql.svg" alt="MySQL" title="MySQL"/>
 
     </p>
-  * Frameworks I have played with
+  * Frameworks with which I have played
     <p  align="center">
     
     <img height="32" src="img/icons/laravel.svg" alt="Laravel" title="Laravel 8"/>
