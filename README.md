@@ -79,6 +79,7 @@ I have helped design and create the [SARKAS](https://github.com/murillo-group/sa
     <p  align="center">
     
     <img height="32" src="img/icons/wolframmathematica.svg" alt="Wolfram Mathematica" title="Mathematica 10 11 &amp; 12"/>
+    <img height="32" src="img/icons/powerbi.svg" alt="Wolfram Mathematica" title="Power BI"/>
 
     </p>
 </details>
