@@ -11,6 +11,8 @@ In the Fall 2021 I enrolled in a 14(+3)-weeks bootcamp @[EPICODE School](https:/
 
 I have helped design and create the [SARKAS](https://github.com/murillo-group/sarkas) [website](https://murillo-group.github.io/sarkas/) for the [Murillo-Group at MSU](https://murillogroupmsu.com/) before enrolling in the bootcamp. It was built with [Sphinx](https://www.sphinx-doc.org), a Python static website generator that is mainly used for documentation-type websites.
 
+On the side I have started writing my own Python package that I hope to use in my math research.
+
 ---
 ---
 
