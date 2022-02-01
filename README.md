@@ -1,15 +1,15 @@
-:bangbang: --- under construction --- :bangbang:
+<!-- :bangbang: --- under construction --- :bangbang: -->
 
 :wave: Hi, I am Stefano
 =======================
 
 I am a **Mathematician** :mortar_board: and **Jr. Full Stack Developer**.
 
-I do enjoy applying my analytical reasoning skills to challenges in other fields. In fact, I learned how to code in several programming/markup languages mostly by myself.
+Moved by my passion for Mathematics I followed a purely academic path. Once I reached a crossroad in my career I have decided to follow another passion of mine and dived into the world of web development.
 
 In the Fall 2021 I enrolled in a 14(+3)-weeks bootcamp @[EPICODE School](https://epicode.it) to become a Full Stack Developer.
 
-I have helped design and create the [SARKAS](https://github.com/murillo-group/sarkas) [website](https://murillo-group.github.io/sarkas/) for the [Murillo-Group at MSU](https://murillogroupmsu.com/) before enrolling in the bootcamp. It was built with [Sphinx](https://www.sphinx-doc.org), a Python static website generator that is mainly used for documentation-type websites.
+I have designed and developed the [SARKAS](https://github.com/murillo-group/sarkas) [website](https://murillo-group.github.io/sarkas/) for the [Murillo-Group at MSU](https://murillogroupmsu.com/) which went live November 2021. It was built with [Sphinx](https://www.sphinx-doc.org), a Python static website generator that is mainly used for documentation-type websites.
 
 On the side I have started writing my own Python package that I hope to use in my math research.
 
@@ -21,7 +21,7 @@ On the side I have started writing my own Python package that I hope to use in m
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=silvestristefano&show_icons=true&theme=city_lights&include_all_commits=true"/>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=silvestristefano&show_icons=true&theme=city_lights&include_all_commits=true"/> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvestristefano&layout=compact&theme=city_lights"/>
 
 </details>
