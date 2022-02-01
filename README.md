@@ -5,7 +5,7 @@
 
 I am a **Mathematician** :mortar_board: and **Jr. Full Stack Developer**.
 
-Moved by my passion for Mathematics I followed a purely academic path. Once I reached a crossroad in my career I have decided to follow another passion of mine and dived into the world of web development.
+Moved by my passion for Mathematics I followed a purely academic path. Once I reached a crossroad in my career I decided to follow another passion of mine and dived into the world of web development.
 
 In the Fall 2021 I enrolled in a 14(+3)-weeks bootcamp @[EPICODE School](https://epicode.it) to become a Full Stack Developer.
 
