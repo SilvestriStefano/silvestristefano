@@ -7,13 +7,13 @@ I am a **Mathematician** :mortar_board: and **Jr. Full Stack Developer**.
 
 Moved by my passion for Mathematics I followed a purely academic path. Once I reached a crossroad in my career I decided to follow another passion of mine and dived into the world of web development.
 
-In the Fall 2021 I enrolled in a 14(+3)-weeks bootcamp @[EPICODE School](https://epicode.it) to become a Full Stack Developer.
+In mid September 2021 I enrolled in a 14(+3)-weeks bootcamp @[EPICODE School](https://epicode.it) to learn about Full Stack Development.
 
 I have designed and developed the [SARKAS](https://github.com/murillo-group/sarkas) [website](https://murillo-group.github.io/sarkas/) for the [Murillo-Group at MSU](https://murillogroupmsu.com/) which went live November 2021. It was built with [Sphinx](https://www.sphinx-doc.org), a Python static website generator that is mainly used for documentation-type websites.
 
-At the moment I work at [OLab s.r.l.s](https://olab-studio.com), a small team of amazing Django/Python developers located around Italy.
+At the moment I work at [OLab s.r.l.s.](https://olab-studio.com), a small team of amazing Django/Python developers located around Italy.
 
-On the side I maintain the SARKAS website, I contribute to Open Source projects, and I have started writing my own Python package that I hope to use in my math research.
+On the side I maintain the SARKAS website, I contribute to Open Source projects, and I am developing my own Python package that I hope to use in my math research.
 
 ---
 ---
@@ -62,11 +62,14 @@ On the side I maintain the SARKAS website, I contribute to Open Source projects,
     <p  align="center">
     
     <img height="42" src="img/icons/mysql.svg" alt="MySQL" title="MySQL"/>
+    <img height="42" src="img/icons/mongodb.svg" alt="MongoDB" title="MongoDB"/>
+    <img height="42" src="img/icons/neo4j.svg" alt="Neo4j" title="Neo4j"/>
 
     </p>
   * Frameworks with which I have played
     <p  align="center">
     
+    <img height="32" src="img/icons/django.svg" alt="Django" title="Django 3 &amp; 4"/>
     <img height="32" src="img/icons/laravel.svg" alt="Laravel" title="Laravel 8"/>
     <img height="32" src="img/icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap 4 &amp; 5"/>
     <img height="32" src="img/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS"/>
@@ -79,11 +82,13 @@ On the side I maintain the SARKAS website, I contribute to Open Source projects,
     <img height="32" src="img/icons/wordpress.svg" alt="Wordpress" title="Wordpress"/>
 
     </p>
-  * Softwares
+  * Software
     <p  align="center">
     
+      
+    <img height="32" src="img/icons/rabbitmq.svg" alt="RabbitMQ" title="RabbitMQ"/>
     <img height="32" src="img/icons/wolframmathematica.svg" alt="Wolfram Mathematica" title="Mathematica 10 11 &amp; 12"/>
-    <img height="32" src="img/icons/powerbi.svg" alt="Wolfram Mathematica" title="Power BI"/>
+    <img height="32" src="img/icons/powerbi.svg" alt="Power BI" title="Power BI"/>
 
     </p>
 </details>
