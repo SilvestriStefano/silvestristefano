@@ -3,7 +3,7 @@
 :wave: Hi, I am Stefano
 =======================
 
-I am a **Mathematician** :mortar_board: and **Jr. Full Stack Developer**.
+I am a **Mathematician** :mortar_board: and **Jr. Software Developer**.
 
 Moved by my passion for Mathematics I followed a purely academic path. Once I reached a crossroad in my career I decided to follow another passion of mine and dived into the world of web development.
 
@@ -11,7 +11,7 @@ In mid September 2021 I enrolled in a 14(+3)-weeks bootcamp @[EPICODE School](ht
 
 I have designed and developed the [SARKAS](https://github.com/murillo-group/sarkas) [website](https://murillo-group.github.io/sarkas/) for the [Murillo-Group at MSU](https://murillogroupmsu.com/) which went live November 2021. It was built with [Sphinx](https://www.sphinx-doc.org), a Python static website generator that is mainly used for documentation-type websites.
 
-At the moment I work at [OLab s.r.l.s.](https://olab-studio.com), a small team of amazing Django/Python developers located around Italy.
+At the moment I work at [OLab s.r.l.s.](https://olab-studio.com), a small team of amazing Django/Python developers located around Italy, and also as a sub-contractor with [SAS Italy](https://www.sas.com/it_it/home.html).
 
 On the side I maintain the SARKAS website, I contribute to Open Source projects, and I am developing my own Python package that I hope to use in my math research.
 
@@ -101,7 +101,7 @@ On the side I maintain the SARKAS website, I contribute to Open Source projects,
 
 💬 Pronouns: he/him/his
 
-✨ In am bilingual: Italian :it: and English :us:
+✨ I am bilingual: Italian :it: and English :us:
 
 👀 Fun fact: I enjoy juggling 🤹 and puzzles
 
