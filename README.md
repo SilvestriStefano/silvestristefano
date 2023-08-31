@@ -9,7 +9,7 @@ I have designed (even the logo) and developed the [SARKAS](https://github.com/mu
 
 In February 2022 I have restyled my old website. I built it with [11ty](https://11ty.dev), the wonderful Static Site Generator created by Zach Leatherman. 
 
-At the moment I work at [OLab s.r.l.s.](https://olab-studio.com), a small team of amazing Django/Python developers located around Italy, and also as a sub-contractor with [SAS Italy](https://www.sas.com/it_it/home.html).
+At the moment I work at [OLab s.r.l.s.](https://olab-studio.com), a small team of amazing Django/Python developers located around Italy, and also as a solutions consultant with [SAS Italy](https://www.sas.com/it_it/home.html).
 
 ---
 ---
