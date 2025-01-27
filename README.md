@@ -3,7 +3,7 @@
 :wave: Hi, I am Stefano
 =======================
 
-I am a **Mathematician** :mortar_board: and **Jr. Software Developer**.
+I am a **Mathematician** :mortar_board: and **Software Developer**.
 
 I have designed (even the logo) and developed the [SARKAS](https://github.com/murillo-group/sarkas) [website](https://murillo-group.github.io/sarkas/) for the [Murillo-Group at MSU](https://murillogroupmsu.com/) which went live November 2021. It was built with [Sphinx](https://www.sphinx-doc.org), a Python static website generator that is mainly used for documentation-type websites.
 
@@ -18,7 +18,7 @@ At the moment I work at [OLab s.r.l.s.](https://olab-studio.com), a small team o
   <summary>GitHub Stats</summary>
 
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=silvestristefano&show_icons=true&theme=city_lights&include_all_commits=true"/> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvestristefano&layout=compact&theme=city_lights"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvestristefano&layout=compact&theme=catppuccin_mocha"/>
 
 </details>
 
